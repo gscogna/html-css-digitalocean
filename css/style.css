@@ -182,7 +182,8 @@ body{
 
 /* Section logo */
 .logo{
-    background-color: #f3f5f9
+    background-color: #f3f5f9;
+    height:300px;
 }
 
 .loghi_section img{
@@ -218,3 +219,5 @@ body{
     display: block;
     padding: 8px;
 }
+
+/* section designed*/
