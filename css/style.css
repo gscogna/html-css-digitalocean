@@ -221,3 +221,24 @@ body{
 }
 
 /* section designed*/
+
+.designed{
+    background-color: #f3f5f9;
+}
+
+.screen_img img{
+    width: 75%;
+    margin: 50px;
+}
+
+.arrow_left,
+.arrow_right{
+    display:inline-block;
+    font-size: 30px;
+}
+
+/* sectione features */
+
+.features{
+    background-color: white;
+}
