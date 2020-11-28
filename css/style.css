@@ -98,6 +98,10 @@ body{
   font-size: 1.4em;
 }
 
+.medium_text_h{
+    font-size:40px;
+}
+
 .high_text{
     font-size:50px;
 }
@@ -236,12 +240,33 @@ body{
 
 /* section Development */
 
+.development{
+    background-color:#f3f5f9;
+}
 
+.box_white{
+    background-color: white;
+    border-radius:2px;
+    width: 100%;
+}
 
+.box_white img{
+    width: 50%;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
 
+.arrow_sinistro{
+    display:inline-block;
+    font-size: 30px;
+    padding-top: 150px;
+}
 
-
-
+.arrow_destro{
+    display:inline-block;
+    font-size: 30px;
+    padding-top: 150px;
+}
 
 /* Margini e padding */
 
@@ -257,6 +282,9 @@ body{
 
 .margin_bottom_50{
     margin-bottom: 50px;
+}
+.padding_top_15{
+    padding-top:15px;
 }
 
 .padding_top_30{
