@@ -268,6 +268,32 @@ body{
     padding-top: 150px;
 }
 
+/* inizio footer top */
+.footer-top{
+    background-color: #002aa6;
+    height: 200px;
+}
+
+
+/* footer-bottom */
+.footer-bottom{
+    background-color: #031C4E;
+    
+}
+
+.logo_font i{
+    padding:5px;
+    font-size: 25px;
+    color: grey;
+}
+
+.company_col ul li{
+    list-style: none;
+    padding:8px;
+    color: grey;
+}
+
+
 /* Margini e padding */
 
 .margin_top_10{
